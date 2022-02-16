@@ -27,17 +27,3 @@ h1 {
     margin-left: 200px;
     margin-top: -60px;
 }
-body {
-    background: #e2e2e2;
-}
-
-.shadow {
-    box-shadow: 0px 1px 1px 1px rgb(184, 181, 181);
-    width: 500px;
-    background: rgba(253, 254, 255, 0.822);
-    height: 100%;
-    margin: 50px;
-    padding-left: 400px
-    
-
-}
