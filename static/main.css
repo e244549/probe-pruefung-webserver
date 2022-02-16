@@ -33,11 +33,7 @@ body {
 
 .shadow {
     box-shadow: 0px 1px 1px 1px rgb(184, 181, 181);
-    width: 500px;
-    background: rgba(253, 254, 255, 0.822);
-    height: 100%;
-    margin: 50px;
-    padding-left: 400px
+   
     
 
 }
